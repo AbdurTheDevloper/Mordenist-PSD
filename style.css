@@ -277,6 +277,7 @@ img{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    padding:20px;
 }
 .about P{
     color: #aba8a8;
@@ -532,6 +533,7 @@ px      68    160    252    */
     }
     .about{
         width: 100%;
+	padding:20px;
     }
     .about-4{
         width: 100%;
