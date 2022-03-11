@@ -534,6 +534,7 @@ px      68    160    252    */
     .about{
         width: 100%;
 	padding:20px;
+       padding: 0px 25px;
     }
     .about-4{
         width: 100%;
@@ -541,6 +542,7 @@ px      68    160    252    */
     .about-col{
         width: 100%;
     }
+ 
     .footer-area {
         flex-wrap: wrap;
         padding: 20px 15px;
